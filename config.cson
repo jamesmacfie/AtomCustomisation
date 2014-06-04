@@ -1,0 +1,21 @@
+'exception-reporting':
+  'userId': '4fab805c-ab3b-5364-d993-b6d37bf378ec'
+'release-notes':
+  'viewedVersion': '0.91.0'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': 'b5f57f395ae8868beb1a8cdec9c4662c67b4bf6d'
+'editor':
+  'showIndentGuide': true
+  'showInvisibles': true
+  'softWrap': true
+  'fontSize': 13
+'core':
+  'themes': [
+    'centurion-ui'
+    'monokai'
+  ]
+  'disabledPackages': [
+    'vim-mode'
+  ]
