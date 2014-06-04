@@ -1,0 +1,24 @@
+/*
+ * Ensure that all characters are slightly visible
+ */
+.invisible-character {
+  color: #464646;
+}
+
+/*
+ * Disable the hiding of the icons (default with Centurion UI theme) so I can
+ * use the file-icon package.
+ *
+ * Also make the .js file icon colour better
+ */
+ .list-item {
+   .icon {
+     &:before {
+       display: inline;
+     }
+
+     &.file-icon-js:before {
+       color: #90a959;
+     }
+   }
+ }
