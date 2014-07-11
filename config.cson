@@ -20,3 +20,11 @@
     'vim-mode'
     'jshint'
   ]
+  'ignoredNames': [
+    '.DS_Store'
+    '.tmp'
+    '.sass-cache'
+  ]
+'tree-view':
+  'hideIgnoredNames': true
+  'hideVcsIgnoredFiles': true
