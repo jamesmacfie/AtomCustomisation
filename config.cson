@@ -10,7 +10,7 @@
   'showIndentGuide': true
   'showInvisibles': true
   'softWrap': true
-  'fontSize': 13
+  'fontSize': 11
 'core':
   'themes': [
     'centurion-ui'
@@ -18,4 +18,5 @@
   ]
   'disabledPackages': [
     'vim-mode'
+    'jshint'
   ]
